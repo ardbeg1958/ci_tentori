@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
         }
         #fortune {
-            font-size: 24px;
+            font-size: 36px;
             margin-bottom: 20px;
         }
     </style>
@@ -33,7 +33,7 @@
         function getFortune() {
             if (fortunes.length > 0) {
                 const fortune = fortunes[Math.floor(Math.random() * fortunes.length)];
-                document.getElementById('fortune').innerHTML = `${fortune.message} ${fortune.circle_symbol}${fortune.score}点 ${fortune.face_emoji} ${fortune.weather_emoji}`;
+                document.getElementById('fortune').innerHTML = `${fortune.circle_symbol}${fortune.score}点 ${fortune.face_emoji} ${fortune.weather_emoji}<br>${fortune.message}`;
             }
         }
     </script>

@@ -10,6 +10,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-direction: column;
             height: 100vh;
             margin: 0;
             background-color: #fafafa;
@@ -20,7 +21,7 @@
         }
         button {
             display: block;
-            margin: 20px auto 0;
+            margin-top: 20px;
             padding: 10px 20px;
             font-size: 24px;
         }
@@ -28,8 +29,6 @@
 </head>
 <body>
     <div id="fortune"></div>
-    <br>
-    <hr>
     <button onclick="getFortune()">占う！</button>
 
     <script>

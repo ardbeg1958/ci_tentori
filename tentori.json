@@ -1,0 +1,354 @@
+{
+    "tentori": [
+        {
+            "message": "誰かを助けると自分自身も幸せになれる",
+            "score": 1,
+            "circle_symbol": "◑",
+            "face_emoji": "👺",
+            "weather_emoji": "💨"
+        },
+        {
+            "message": "何事もバランスが大切",
+            "score": 6,
+            "circle_symbol": "◐",
+            "face_emoji": "👹",
+            "weather_emoji": "❄️"
+        },
+        {
+            "message": "旅行に出ると良いことがある",
+            "score": 2,
+            "circle_symbol": "◑",
+            "face_emoji": "☹",
+            "weather_emoji": "🌤"
+        },
+        {
+            "message": "新しい趣味を始めると楽しい",
+            "score": 8,
+            "circle_symbol": "◐",
+            "face_emoji": "😦",
+            "weather_emoji": "☁️"
+        },
+        {
+            "message": "忍耐強くあることで成功をつかむ",
+            "score": 9,
+            "circle_symbol": "◐",
+            "face_emoji": "😑",
+            "weather_emoji": "🌫"
+        },
+        {
+            "message": "新たな発見があるかも",
+            "score": 4,
+            "circle_symbol": "◐",
+            "face_emoji": "🤭",
+            "weather_emoji": "☔️"
+        },
+        {
+            "message": "困ったときは周りに助けを求めよう",
+            "score": 1,
+            "circle_symbol": "◑",
+            "face_emoji": "😲",
+            "weather_emoji": "🌊"
+        },
+        {
+            "message": "過去の失敗から学びを得る時",
+            "score": 1,
+            "circle_symbol": "◐",
+            "face_emoji": "🥱",
+            "weather_emoji": "⛈"
+        },
+        {
+            "message": "運気が上昇する一日",
+            "score": 9,
+            "circle_symbol": "◑",
+            "face_emoji": "🤭",
+            "weather_emoji": "💧"
+        },
+        {
+            "message": "運動すると気分転換になる",
+            "score": 4,
+            "circle_symbol": "●",
+            "face_emoji": "🤗",
+            "weather_emoji": "🌩"
+        },
+        {
+            "message": "新たな挑戦をするとき",
+            "score": 7,
+            "circle_symbol": "◐",
+            "face_emoji": "🤤",
+            "weather_emoji": "❄️"
+        },
+        {
+            "message": "チャレンジする勇気を持とう",
+            "score": 6,
+            "circle_symbol": "●",
+            "face_emoji": "😃",
+            "weather_emoji": "⛈"
+        },
+        {
+            "message": "困難を乗り越える力がある",
+            "score": 4,
+            "circle_symbol": "○",
+            "face_emoji": "😴",
+            "weather_emoji": "⛈"
+        },
+        {
+            "message": "自然に触れるとリフレッシュできる",
+            "score": 2,
+            "circle_symbol": "●",
+            "face_emoji": "😢",
+            "weather_emoji": "🌊"
+        },
+        {
+            "message": "困難な状況でも前向きに",
+            "score": 2,
+            "circle_symbol": "○",
+            "face_emoji": "🤧",
+            "weather_emoji": "⛅️"
+        },
+        {
+            "message": "気分を変えるために場所を変えてみて",
+            "score": 9,
+            "circle_symbol": "○",
+            "face_emoji": "😍",
+            "weather_emoji": "❄️"
+        },
+        {
+            "message": "心から笑うことで運気上昇",
+            "score": 10,
+            "circle_symbol": "○",
+            "face_emoji": "😙",
+            "weather_emoji": "🌤"
+        },
+        {
+            "message": "美味しいご飯を食べると幸せな気分に",
+            "score": 8,
+            "circle_symbol": "◐",
+            "face_emoji": "🤠",
+            "weather_emoji": "🌬"
+        },
+        {
+            "message": "自分を表現する方法を見つけると吉",
+            "score": 2,
+            "circle_symbol": "◑",
+            "face_emoji": "😒",
+            "weather_emoji": "🌨"
+        },
+        {
+            "message": "大切なものを見失わないように",
+            "score": 7,
+            "circle_symbol": "◐",
+            "face_emoji": "😏",
+            "weather_emoji": "🌫"
+        },
+        {
+            "message": "新しい出会いがありそう",
+            "score": 10,
+            "circle_symbol": "◑",
+            "face_emoji": "👾",
+            "weather_emoji": "🌨"
+        },
+        {
+            "message": "感謝の気持ちを忘れずに",
+            "score": 6,
+            "circle_symbol": "◐",
+            "face_emoji": "👻",
+            "weather_emoji": "☀️"
+        },
+        {
+            "message": "自分の直感を信じると吉",
+            "score": 10,
+            "circle_symbol": "◑",
+            "face_emoji": "😙",
+            "weather_emoji": "🌬"
+        },
+        {
+            "message": "自分の時間を大切に過ごすとリラックスできる",
+            "score": 7,
+            "circle_symbol": "◑",
+            "face_emoji": "😘",
+            "weather_emoji": "🌤"
+        },
+        {
+            "message": "注意深く行動すれば、問題は起きない",
+            "score": 2,
+            "circle_symbol": "●",
+            "face_emoji": "😁",
+            "weather_emoji": "☁️"
+        },
+        {
+            "message": "新しいことを学ぶとき",
+            "score": 3,
+            "circle_symbol": "◐",
+            "face_emoji": "🤔",
+            "weather_emoji": "🌨"
+        },
+        {
+            "message": "新しい経験をすると楽しい",
+            "score": 3,
+            "circle_symbol": "●",
+            "face_emoji": "😲",
+            "weather_emoji": "⛈"
+        },
+        {
+            "message": "今日はリラックスする日",
+            "score": 2,
+            "circle_symbol": "○",
+            "face_emoji": "🤣",
+            "weather_emoji": "🌊"
+        },
+        {
+            "message": "自分の気持ちを大切にしよう",
+            "score": 7,
+            "circle_symbol": "○",
+            "face_emoji": "😢",
+            "weather_emoji": "❄️"
+        },
+        {
+            "message": "今日は何か新しいことを始めるのが吉",
+            "score": 3,
+            "circle_symbol": "◑",
+            "face_emoji": "😷",
+            "weather_emoji": "🌊"
+        },
+        {
+            "message": "友人からの良いニュースが",
+            "score": 10,
+            "circle_symbol": "◐",
+            "face_emoji": "🤕",
+            "weather_emoji": "❄️"
+        },
+        {
+            "message": "読書をすると新たな発見がある",
+            "score": 5,
+            "circle_symbol": "◑",
+            "face_emoji": "👻",
+            "weather_emoji": "🌦"
+        },
+        {
+            "message": "助けが必要なときは頼ること",
+            "score": 1,
+            "circle_symbol": "●",
+            "face_emoji": "🤢",
+            "weather_emoji": "🌨"
+        },
+        {
+            "message": "今日の運勢は最高！全てがうまくいく",
+            "score": 1,
+            "circle_symbol": "○",
+            "face_emoji": "👾",
+            "weather_emoji": "⛅️"
+        },
+        {
+            "message": "音楽を聴くとリラックスできる",
+            "score": 1,
+            "circle_symbol": "◑",
+            "face_emoji": "😚",
+            "weather_emoji": "💧"
+        },
+        {
+            "message": "思いもよらない幸運が",
+            "score": 3,
+            "circle_symbol": "◑",
+            "face_emoji": "😂",
+            "weather_emoji": "💨"
+        },
+        {
+            "message": "財布の中身を確認すると吉",
+            "score": 1,
+            "circle_symbol": "◑",
+            "face_emoji": "😫",
+            "weather_emoji": "☁️"
+        },
+        {
+            "message": "趣味の時間を大切に",
+            "score": 9,
+            "circle_symbol": "◐",
+            "face_emoji": "😁",
+            "weather_emoji": "☀️"
+        },
+        {
+            "message": "アートに触れるとインスピレーションがわく",
+            "score": 5,
+            "circle_symbol": "●",
+            "face_emoji": "🤗",
+            "weather_emoji": "🌥"
+        },
+        {
+            "message": "気持ちの切り替えが必要な時",
+            "score": 5,
+            "circle_symbol": "◑",
+            "face_emoji": "😄",
+            "weather_emoji": "⛅️"
+        },
+        {
+            "message": "大切な人との時間を過ごそう",
+            "score": 8,
+            "circle_symbol": "●",
+            "face_emoji": "👾",
+            "weather_emoji": "🌬"
+        },
+        {
+            "message": "今日は運気が下がりそう、注意が必要",
+            "score": 7,
+            "circle_symbol": "○",
+            "face_emoji": "😳",
+            "weather_emoji": "❄️"
+        },
+        {
+            "message": "周囲の意見を聞くと新たな視点が得られる",
+            "score": 1,
+            "circle_symbol": "◑",
+            "face_emoji": "😬",
+            "weather_emoji": "🌬"
+        },
+        {
+            "message": "今日は落ち着いて過ごすと吉",
+            "score": 6,
+            "circle_symbol": "◑",
+            "face_emoji": "🤤",
+            "weather_emoji": "⛈"
+        },
+        {
+            "message": "手紙を書くと気持ちが伝わる",
+            "score": 9,
+            "circle_symbol": "●",
+            "face_emoji": "😀",
+            "weather_emoji": "🌧"
+        },
+        {
+            "message": "自分自身を信じることが大切",
+            "score": 4,
+            "circle_symbol": "●",
+            "face_emoji": "😵",
+            "weather_emoji": "☁️"
+        },
+        {
+            "message": "新しい友達ができるかも",
+            "score": 4,
+            "circle_symbol": "●",
+            "face_emoji": "🤭",
+            "weather_emoji": "☂️"
+        },
+        {
+            "message": "思い切った行動が吉",
+            "score": 8,
+            "circle_symbol": "○",
+            "face_emoji": "😨",
+            "weather_emoji": "🌤"
+        },
+        {
+            "message": "笑うと周りの雰囲気も明るくなる",
+            "score": 9,
+            "circle_symbol": "◑",
+            "face_emoji": "👽",
+            "weather_emoji": "☂️"
+        },
+        {
+            "message": "身体の健康を第一に",
+            "score": 2,
+            "circle_symbol": "◐",
+            "face_emoji": "☹",
+            "weather_emoji": "🌫"
+        }
+    ]
+}

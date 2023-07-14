@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>点取り占い</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #fortune {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="fortune"></div>
+    <button onclick="getFortune()">占う！</button>
+
+    <script>
+        let fortunes = [];
+
+        // Fetch the JSON file and store the fortunes
+        fetch('tentori.json')
+            .then(response => response.json())
+            .then(data => {
+                fortunes = data.tentori;
+                getFortune();
+            });
+
+        // Function to display a random fortune
+        function getFortune() {
+            if (fortunes.length > 0) {
+                const fortune = fortunes[Math.floor(Math.random() * fortunes.length)];
+                document.getElementById('fortune').innerHTML = `${fortune.message} ${fortune.circle_symbol}${fortune.score}点 ${fortune.face_emoji} ${fortune.weather_emoji}`;
+            }
+        }
+    </script>
+</body>
+</html>
